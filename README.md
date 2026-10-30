@@ -2,7 +2,7 @@
 this tool is used for finding subdomains from crt.sh and rapiddns sites
 
 ## requirements 
-python  >3.15
+python  >3.15.0
 
 requests   2.34.2
 
