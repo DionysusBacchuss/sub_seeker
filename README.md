@@ -1,8 +1,8 @@
-# Param_finder
-this tool is used for finding parameter even hidden parameters 
+# sub_seeker
+this tool is used for finding subdomains from crt.sh and rapiddns sites
 
 ## requirements 
-python
-
-### title 3 
-#### title 4 
+python  >3.15
+requests   2.34.2
+beautifulsoup4   4.15.0
+dnsdumpster   0.11.0
