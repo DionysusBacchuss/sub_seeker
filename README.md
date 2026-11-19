@@ -8,5 +8,3 @@ requests   2.34.2
 
 beautifulsoup4   4.15.0
 
-dnsdumpster   0.11.0
-
