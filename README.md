@@ -7,6 +7,7 @@ also this tool on every subdomain or ip doing httpx that determine its up or not
 
 # Command line
 ``` python -d example.com -o output.txt ```
+
 ``` python -f filename.txt -o output.txt ```
 
 ## requirements 
