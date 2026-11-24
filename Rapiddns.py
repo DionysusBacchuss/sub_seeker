@@ -40,6 +40,7 @@ class RapidDns():
                 uninqe_domains.append(each_item)
         
         uninqe_ips = []
+        seen = set()
         for each_item in ip :
             if each_item in seen:
                 pass
